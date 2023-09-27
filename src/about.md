@@ -3,4 +3,4 @@ layout: default
 title: This is me.
 ---
 
-She/her. A software person. Singapore.
+Jim's longer bio goes here.
