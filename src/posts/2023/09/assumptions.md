@@ -7,13 +7,13 @@ tags:
 Since childhood, I’ve know that “a pint is a pound, the world around.” Right?
 Teachers explained that a pint is 16 ounces, and 16 ounces is a pound, ergo 1
 pint = 1 pound. Simple. Memorable.
-<!-- excerpt -->
-{% asset_img 'pints.jpg' 'pints' %}
 
 But of late, as I’ve begun to question more and more of my long-held
 assumptions, even this pint/pound parity has come into question. There were two
 unexamined assumptions upon which this “truism” was based—that the medium being
 measured is water, and that the measure is in fluid ounces.
+<!-- excerpt -->
+{% asset_img 'pints.jpg' 'pints' %}
 
 As a newbie beekeeper, I’ve learned that a pint of honey weighs not one pound,
 but one and a half pounds. And while a pint of my childhood marbles does indeed
