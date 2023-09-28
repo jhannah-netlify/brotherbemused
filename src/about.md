@@ -1,6 +1,6 @@
 ---
 layout: default
-title: This is me.
+title: Brother Bemused
 ---
 
 Jim's longer bio goes here.
