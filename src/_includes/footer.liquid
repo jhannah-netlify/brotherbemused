@@ -5,6 +5,10 @@
         <a href={{ site.facebook }}>Facebook</a>
       {% endif %}
 
+      {% if site.email != "" %}
+        <a href="mailto:{{ site.email }}">email</a>
+      {% endif %}
+
       {% if site.rss != "" %}
         <a href={{ site.rss }}>RSS</a>
       {% endif %}
