@@ -33,12 +33,25 @@ Maybe one should just shrug it off with the truism of my younger brother:
 
 But somehow, when I’m clueless, I can’t help myself—I want to get a clue. 
 
-One such clue is Donald Trump’s campaign language, promising “I am your retribution!” This is an obvious appeal to those who feel wronged, disrespected, or unheard. They’re angry. They want the  “justice” they feel they deserve. So an angry, vindictive Trump is their man. That’s understandable—albeit misguided, in my view. You won’t open the door to justice with an unhinged spokesman.   
+One such clue is Donald Trump’s campaign language, promising *“I am your
+retribution!”* This is an obvious appeal to those who feel wronged,
+disrespected, or unheard. They’re angry. They want the  “justice” they feel
+they deserve. So an angry, vindictive Trump is their man. That’s
+understandable—albeit misguided, in my view. You won’t open the door to justice
+with an unhinged spokesman.
 
-And what about legislators willing to throw their own party under the bus and make the House of Representatives nonfunctional for weeks, as urgent business languishes? Get a clue, folks. You’re not Samson, even if you’re willing bring the entire House down on everyone’s head. And suppose you were Samson, you might recall that he was crushed right alongside his foes.
+And what about legislators willing to throw their own party under the bus and
+make the House of Representatives nonfunctional for weeks, as urgent business
+languishes? Get a clue, folks. You’re not Samson, even if you’re willing bring
+the entire House down on everyone’s head. And suppose you were Samson, you
+might recall that he was crushed right alongside his foes.
 
-So the question remains. Are the majority of Americans so angry, so uncompromising, so tribal, that they would elect lunacy? If so, look for the craziness to amplify exponentially. 
+So the question remains. Are the majority of Americans so angry, so
+uncompromising, so tribal, that they would elect lunacy? If so, look for the
+craziness to amplify exponentially.
 
-My hope is that as a nation we are wiser than that, choosing neither far right not far left, but a centrist position for the common good, moving away from both minority rule and attack politics. 
+My hope is that as a nation we are wiser than that, choosing neither far right
+not far left, but a centrist position for the common good, moving away from
+both minority rule and attack politics.
 
-Surely we deserve better. And we’ll chose better. Won’t we?
+Surely we deserve better. And we’ll choose better. Won’t we?
