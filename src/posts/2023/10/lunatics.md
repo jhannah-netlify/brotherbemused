@@ -13,7 +13,8 @@ How could the Republican majority in the House of Representatives be
 immobilized by eight far-right representatives of their own party, canceling
 the vote of some 200 colleagues?
 <!-- excerpt -->
-{% asset_img 'lunatics.jpg' 'lunatics' %}
+
+{% asset_img 'lunatics.jpg' 'lunatics' 'float-left mr-4 mt-0 mb-0 not-prose' %}
 How could a man indicted on 94 felony counts (the first president in 234 years
 to face criminal charges) become the leading primary candidate of the
 Republican Party? 
