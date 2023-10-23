@@ -45,7 +45,7 @@ prosthetics, weapons, uniforms, drugs, propaganda, and everything else needed
 for the war machine.     
 
 War is good for the coffers of the
-military/corporate/educational/entertainment/religion/media/government
+military / corporate / educational / entertainment / religion / media / government
 complex—a cabal that has expanded immensely since Eisenhower cautioned against
 the “military industrial complex” and war profiteering.
 
