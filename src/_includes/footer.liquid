@@ -5,18 +5,13 @@
         <a href={{ site.facebook }}>Facebook</a>
       {% endif %}
 
+      {% if site.rss != "" %}
+        <a href={{ site.rss }}>RSS</a>
+      {% endif %}
+
       {% if site.github != "" %}
-        <a href={{ site.github }}>Github</a> 
+        <a href={{ site.github }}>Github</a>
       {% endif %}
-
-      {% if site.linkedin != "" %}
-        &middot; <a href={{ site.linkedin }}>LinkedIn</a>
-      {% endif %}
-
-      {% if site.twitter != "" %}
-        &middot; <a href={{ site.twitter }}>Twitter</a>
-      {% endif %}
-
     </p>
   </div>
 </footer>
