@@ -1,6 +1,6 @@
 ---
 title: Ironic, Isn't It?
-date: 2023-09-22
+date: 2023-09-22 12:00:00 -5
 # published: false
 tags:
 ---

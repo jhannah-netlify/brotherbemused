@@ -1,6 +1,6 @@
 ---
 title: The Lunatics We Deserve?
-date: 2023-10-22
+date: 2023-10-22 12:00:00 -5
 # published: false
 tags:
 ---

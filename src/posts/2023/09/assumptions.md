@@ -1,6 +1,6 @@
 ---
 title: On Checking My Assumptions at the Door
-date: 2023-09-13
+date: 2023-09-13 12:00:00 -5
 # published: false
 tags:
 ---
