@@ -3,6 +3,7 @@ title: War! What Is It Good For?
 date: 2023-10-23 12:00:00 -5
 # published: false
 tags:
+image: war.jpg
 ---
 Back when I was a pup I grooved to The Temptation’s tune asking,
 “War! What is it good for?”

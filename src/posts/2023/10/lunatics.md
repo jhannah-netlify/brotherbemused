@@ -3,6 +3,7 @@ title: The Lunatics We Deserve?
 date: 2023-10-22 12:00:00 -5
 # published: false
 tags:
+image: lunatics.jpg
 ---
 *Every age gets the lunatics it deserves.* - Roy Porter, British historian
 
