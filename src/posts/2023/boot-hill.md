@@ -2,7 +2,7 @@
 title: Thoughts from Boot Hill
 date: 2023-11-18 12:00:00 -5
 # published: false
-image: boot_hill.jpg
+image: 2023/boot_hill.jpg
 tags:
 ---
 Some say the best things in life are not things. And while I’d generally agree,
@@ -10,7 +10,7 @@ some things really ARE the best. In that category I’d include my beloved hikin
 boots.
 
 <!-- excerpt -->
-{% asset_img 'boot_hill.jpg' 'human race' %}
+{% asset_img image 'human race' %}
 
 They came into my life many years ago as I was preparing for a Colorado back
 pack trip with my oldest son, Jay. In one of those cool “coincidences,” when

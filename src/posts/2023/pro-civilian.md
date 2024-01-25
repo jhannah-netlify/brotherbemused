@@ -2,7 +2,7 @@
 title: Pro Israel? Pro Palestine? Or Pro Civilian?
 date: 2023-11-03 12:00:00 -5
 # published: false
-image: human_race.jpg
+image: 2023/human_race.jpg
 tags:
 ---
 Does being pro-Palestinian make you anti-Israeli?
@@ -12,7 +12,7 @@ Does being pro-Israeli mean make you anti-Palestinian?
 One might think so, with heated rhetoric and public protests casting the current Gaza war in either/or, black-or-white, dichotomies. 
 <!-- excerpt -->
 
-{% asset_img 'human_race.jpg' 'human race' 'float-left mr-4 mt-0 mb-0 not-prose' %}
+{% asset_img image 'human race' 'float-left mr-4 mt-0 mb-0 not-prose' %}
 The nationalistic extremes of both Zionism and Hamas would have us believe that
 “the other” is so vile, so reprehensible, that the only option is to call for a
 cleansing jihad, or holocaust. 

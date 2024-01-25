@@ -3,7 +3,7 @@ title: On Checking My Assumptions at the Door
 date: 2023-09-13 12:00:00 -5
 # published: false
 tags:
-image: pints.jpg
+image: 2023/pints.jpg
 ---
 Since childhood, I’ve know that “a pint is a pound, the world around.” Right?
 Teachers explained that a pint is 16 ounces, and 16 ounces is a pound, ergo 1
@@ -14,7 +14,7 @@ assumptions, even this pint/pound parity has come into question. There were two
 unexamined assumptions upon which this “truism” was based—that the medium being
 measured is water, and that the measure is in fluid ounces.
 <!-- excerpt -->
-{% asset_img 'pints.jpg' 'pints' %}
+{% asset_img image 'pints' %}
 
 As a newbie beekeeper, I’ve learned that a pint of honey weighs not one pound,
 but one and a half pounds. And while a pint of my childhood marbles does indeed

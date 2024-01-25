@@ -2,7 +2,7 @@
 title: Dirt-y movie
 date: 2023-12-04 12:00:00 -5
 # published: false
-image: dirt-y-movie.jpg
+image: 2023/dirt-y-movie.jpg
 tags:
 ---
 I went to a dirt-y movie last night…and I highly recommend it!
@@ -12,7 +12,7 @@ Now that I’ve tweaked your prurient interest, maybe I should more accurately s
 I went to a soil-y movie last night.…and I highly recommend it!
 
 <!-- excerpt -->
-{% asset_img 'dirt-y-movie.jpg' 'human race' %}
+{% asset_img image 'human race' %}
 
 It’s called “Common Ground,” coming soon to a theater near you. The movie digs
 deep into the precious earth that sustains us. It calls for “regenerative

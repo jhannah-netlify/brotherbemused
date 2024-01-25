@@ -3,7 +3,7 @@ title: War! What Is It Good For?
 date: 2023-10-23 12:00:00 -5
 # published: false
 tags:
-image: war.jpg
+image: 2023/war.jpg
 ---
 Back when I was a pup I grooved to The Temptation’s tune asking,
 “War! What is it good for?”
@@ -12,7 +12,7 @@ The answer they offered was “ABSOLUTELY NOTHING!”
 
 Now that I’m an old dog, however, I beg to differ. 
 <!-- excerpt -->
-{% asset_img 'war.jpg' 'war' 'float-left mr-4 mt-0 mb-0 not-prose' %}
+{% asset_img image 'war' 'float-left mr-4 mt-0 mb-0 not-prose' %}
 War is good for *lots* of things. 
 
 War is good for silencing dissent. Once war is declared, questioning it is

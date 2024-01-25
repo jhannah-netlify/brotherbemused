@@ -2,7 +2,7 @@
 title: The Big Lie
 date: 2024-01-22 12:00:00 -5
 # published: false
-image: big-lie.jpg
+image: 2024/big-lie.jpg
 tags:
 ---
 I should probably content myself with the very sage observation made by my younger brother: 
@@ -10,7 +10,7 @@ I should probably content myself with the very sage observation made by my young
 “Humans. You can’t explain ‘em.”
 
 <!-- excerpt -->
-{% asset_img 'big-lie.jpg' 'The Big Lie' %}
+{% asset_img image 'The Big Lie' %}
 
 It reminds me of the statement so often heard after a mass shooting: “A motive
 has not yet been determined.” Maybe that’s all one can say. Some things are

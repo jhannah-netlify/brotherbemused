@@ -3,13 +3,13 @@ title: Ironic, Isn't It?
 date: 2023-09-22 12:00:00 -5
 # published: false
 tags:
-image: rocket.jpg
+image: 2023/rocket.jpg
 ---
 Irony did not disappear along with ironing boards. Why, just today my brain was wrinkled by the ironical. 
 
 It began with the reminder that this is the International Day of Peace, a global observance each September 21st declared by the United Nations to strengthen the ideals of peace. 
 <!-- excerpt -->
-{% asset_img 'rocket.jpg' 'pints' %}
+{% asset_img image 'pints' %}
 
 In marking the anniversary, UN Secretary-General António Guterres said, "Peace is needed today more than ever. War and conflict are unleashing devastation, poverty, and hunger, and driving tens of millions of people from their homes. Climate chaos is all around. And even peaceful countries are gripped by gaping inequalities and political polarization.”
 

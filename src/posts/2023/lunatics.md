@@ -3,7 +3,7 @@ title: The Lunatics We Deserve?
 date: 2023-10-22 12:00:00 -5
 # published: false
 tags:
-image: lunatics.jpg
+image: 2023/lunatics.jpg
 ---
 *Every age gets the lunatics it deserves.* - Roy Porter, British historian
 
@@ -15,7 +15,7 @@ immobilized by eight far-right representatives of their own party, canceling
 the vote of some 200 colleagues?
 <!-- excerpt -->
 
-{% asset_img 'lunatics.jpg' 'lunatics' 'float-left mr-4 mt-0 mb-0 not-prose' %}
+{% asset_img image 'lunatics' 'float-left mr-4 mt-0 mb-0 not-prose' %}
 How could a man indicted on 94 felony counts (the first president in 234 years
 to face criminal charges) become the leading primary candidate of the
 Republican Party? 
