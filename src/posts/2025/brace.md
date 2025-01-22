@@ -7,7 +7,8 @@ tags:
 ---
 
 That’s the best three-word summary I’ve yet heard for the days ahead under a
-new administration, expressed by NY Times columnist Patrick Healy. 
+new administration, expressed by NY Times columnist
+[Patrick Healy](https://archive.is/C0nx9).
 
 <!-- excerpt -->
 {% asset_img image 'Lego dinosaur' %}
