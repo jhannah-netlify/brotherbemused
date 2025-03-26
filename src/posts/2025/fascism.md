@@ -1,5 +1,5 @@
 ---
-title: 'Fascism Anyone?'
+title: 'Fascism Anyone? 14 characteristics.'
 date: 2025-03-10 12:00:00 -5
 # published: false
 image: 2025/fascism/1.jpg
@@ -11,18 +11,9 @@ generic labels are neither useful, nor accurate. But fascists and their regimes
 often do have common characteristics that help identify them. 
 
 <!-- excerpt -->
-In the interest of such definition, I’m going to daily post one of 14
-characteristics of fascism for the next two weeks (thinking that to list all 14
-at once could be overwhelming). I hope these posts will help make sense of US
-political realities today. 
-
 This list was compiled two decades ago by political scientist, Dr. Lawrence
 Britt, after studying the fascist regimes of Hitler, Mussolini, Franco,
 Suharto, and Pinochet. 
-
-NOTE: A fascist is not just someone whose political opinions differ from yours.
-Such generic labels are neither useful, nor accurate. But fascists and their
-regimes often do have common characteristics that help identify them. 
 
 **Fascist characteristic #1**
 
