@@ -13,7 +13,12 @@ often do have common characteristics that help identify them.
 <!-- excerpt -->
 This list was compiled two decades ago by political scientist, Dr. Lawrence
 Britt, after studying the fascist regimes of Hitler, Mussolini, Franco,
-Suharto, and Pinochet. 
+Suharto, and Pinochet. SOURCE: "American Fascism and God," Davidson Loehr,
+Chelsea Green Publishing Co., 2005, pp. 78-70.  
+
+For those interested in further understanding of fascism, two approachable
+and brief summaries are "On Tyranny", by Timothy Snyder, and "How Fascism Works,"
+by Jason Stanley.
 
 **Fascist characteristic #1**
 
