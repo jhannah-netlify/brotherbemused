@@ -3,10 +3,13 @@ const markdownIt = require('markdown-it')
 const markdownItAnchor = require('markdown-it-anchor')
 const pluginRss = require('@11ty/eleventy-plugin-rss');
 
-module.exports = function(eleventyConfig) {
+import UpgradeHelper from "@11ty/eleventy-upgrade-help";
+
+export default function (eleventyConfig) {
   // Plugins
   eleventyConfig.addPlugin(syntaxHighlight)
   eleventyConfig.addPlugin(pluginRss)
+  eleventyConfig.addPlugin(UpgradeHelper);
   
   // To enable merging of tags
   eleventyConfig.setDataDeepMerge(true)
