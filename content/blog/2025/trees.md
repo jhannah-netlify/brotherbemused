@@ -11,7 +11,7 @@ few days ago. We thought these were new leaves coming on, but looking closer
 discovered hundreds of maple whirligigs instead.
 
 <!-- excerpt -->
-{% asset_img image 'The Hidden Life of Trees, by Peter Wohllben' %}
+<img src="{{image}}" alt="The Hidden Life of Trees, by Peter Wohllben">
 
 It got me to thinking...
 What if the first thought of the human species was to benefit the NEXT generation?

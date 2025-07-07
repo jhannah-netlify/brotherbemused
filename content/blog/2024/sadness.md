@@ -14,7 +14,7 @@ would I rather be in right relationship?” It’s a great question. And it matt
 immensely.
 
 <!-- excerpt -->
-{% asset_img image 'Do Unto Others...' %}
+<img src="{{image}}" alt="Do Unto Others...">
 
 Granted, sometimes the actions or beliefs of others may require distancing to
 uphold your own sense of morality, or even protect your emotional or physical

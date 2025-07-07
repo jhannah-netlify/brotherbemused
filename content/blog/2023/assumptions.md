@@ -14,7 +14,7 @@ assumptions, even this pint/pound parity has come into question. There were two
 unexamined assumptions upon which this “truism” was based—that the medium being
 measured is water, and that the measure is in fluid ounces.
 <!-- excerpt -->
-{% asset_img image 'pints' %}
+<img src="{{image}}" alt="pints">
 
 As a newbie beekeeper, I’ve learned that a pint of honey weighs not one pound,
 but one and a half pounds. And while a pint of my childhood marbles does indeed

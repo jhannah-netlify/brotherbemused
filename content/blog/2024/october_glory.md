@@ -9,7 +9,7 @@ tags:
 Gobsmacked by the beauty of the October Glory maple in our front yard. 
 
 <!-- excerpt -->
-{% asset_img image 'Red leaf backlit by sun' %}
+<img src="{{image}}" alt="Red leaf backlit by sun">
 
 Puts me in mind of a poem by Gordon & Gladis DePree:
 

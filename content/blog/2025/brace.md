@@ -11,7 +11,7 @@ new administration, expressed by NY Times columnist
 [Patrick Healy](https://archive.is/C0nx9).
 
 <!-- excerpt -->
-{% asset_img image 'Lego dinosaur' %}
+<img src="{{image}}" alt="Lego dinosaur">
 
 As we try to keep our heads down and our chins up, wondering how we got here and how it may end, here’s a short list of hazards we probably should have paid more attention to before boarding:
 * Narcissistic personality disorder. 

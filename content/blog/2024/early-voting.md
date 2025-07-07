@@ -11,7 +11,7 @@ times, it was reassuring to find that during the long wait all remained cordial
 as we chatted and joked to pass the time.
 
 <!-- excerpt -->
-{% asset_img image 'mural' %}
+<img src="{{image}}" alt="mural">
 
 Alongside me was a 90-year-old woman with her dog in a pet carrier, committed
 to exercising her right to vote, despite the challenges. The whole experience

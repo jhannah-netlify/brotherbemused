@@ -12,7 +12,7 @@ For those who’ve missed it, the film is a sobering/hilarious satire of a
 paranoid general who launches an unauthorized preemptive strike on the Soviet
 Union’s “Doomsday Machine.”
 <!-- excerpt -->
-{% asset_img image 'Is it good for the grand-kids?' %}
+<img src="{{image}}" alt="Is it good for the grand-kids?">
 
 (SPOILER ALERT: It ends with B-52 pilot Maj. “King” Kong astride a nuclear bomb
 waving his cowboy hat and hollering WAHOO! as the bomb descends on its Russian

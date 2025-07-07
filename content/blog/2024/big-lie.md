@@ -10,7 +10,7 @@ I should probably content myself with the very sage observation made by my young
 “Humans. You can’t explain ‘em.”
 
 <!-- excerpt -->
-{% asset_img image 'The Big Lie' %}
+<img src="{{image}}" alt="The Big Lie">
 
 It reminds me of the statement so often heard after a mass shooting: “A motive
 has not yet been determined.” Maybe that’s all one can say. Some things are

@@ -12,7 +12,7 @@ Now that I’ve tweaked your prurient interest, maybe I should more accurately s
 I went to a soil-y movie last night.…and I highly recommend it!
 
 <!-- excerpt -->
-{% asset_img image 'human race' %}
+<img src="{{image}}" alt="human race">
 
 It’s called “Common Ground,” coming soon to a theater near you. The movie digs
 deep into the precious earth that sustains us. It calls for “regenerative

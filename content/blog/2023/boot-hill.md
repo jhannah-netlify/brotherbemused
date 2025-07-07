@@ -10,7 +10,7 @@ some things really ARE the best. In that category I’d include my beloved hikin
 boots.
 
 <!-- excerpt -->
-{% asset_img image 'human race' %}
+<img src="{{image}}" alt="boot hill">
 
 They came into my life many years ago as I was preparing for a Colorado back
 pack trip with my oldest son, Jay. In one of those cool “coincidences,” when

@@ -21,7 +21,7 @@ Purge bedrock values of diversity, equity, and inclusion? Impose broad-scale
 tariffs that spark no-win trade wars? Fire federal employees indiscriminately,
 by the tens of thousands?
 
-{% asset_img image 'Full speed ahead' %}
+<img src="{{image}}" alt="Full speed ahead">
 
 So I sometimes have this sinking feeling. I wonder how many of us will be
 fortunate enough to make it to a lifeboat. I wonder who will respond to our

@@ -11,7 +11,7 @@ co-opted, coming to mean the opposite of their original intent.
 Take the current lingo that describes something really good as really “bad.”
 What’s with that? Good wasn’t good enough?
 <!-- excerpt -->
-{% asset_img image 'American flag on cross' %}
+<img src="{{image}}" alt="American flag on cross">
 
 Or how about when someone says, ”Oh, that’s just perfect,” when what they
 actually mean is “that’s just wrong.” Again, what’s wrong with just saying

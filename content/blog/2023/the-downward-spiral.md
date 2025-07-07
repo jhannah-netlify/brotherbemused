@@ -9,7 +9,7 @@ I returned yesterday from a 4-day vacation from the news to learn that Israel
 has increased its number of attacks on Gaza to 250 DAILY.
 
 <!-- excerpt -->
-{% asset_img image 'downward-spiral' %}
+<img src="{{image}}" alt="downward spiral">
 
 If one can believe anything in time of war, the reported tally of such attacks
 to-date is an unimaginable 22,000, killing some 18,000 Palestinians--the

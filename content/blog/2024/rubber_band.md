@@ -11,7 +11,7 @@ Consider the humble rubber band.
 Lying around in a drawer, all relaxed and floppy, it’s useless. 
 
 <!-- excerpt -->
-{% asset_img image 'Rubber bands' %}
+<img src="{{image}}" alt="Rubber bands">
 
 On the other hand, its design is similarly defeated if stretched to the
 breaking point.

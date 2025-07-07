@@ -14,7 +14,7 @@ choose life, even as we did more than a decade ago when this was a productive
 bean field, and we stood before the earth movers to halt their un-natural
 despoilment and destruction.
 <!-- excerpt -->
-{% asset_img image 'Burned Mary of Nagasaki' %}
+<img src="{{image}}" alt="Burned Mary of Nagasaki">
 
 More than 160 arrests have since been made as PeaceWorks and its peacemaker
 allies have nonviolently “crossed the line” to witness of Life and Love,

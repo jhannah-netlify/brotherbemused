@@ -26,7 +26,7 @@ Powerful and continuing nationalism. Fascist regimes tend to make constant use
 of patriotic mottos, slogans, symbols, songs, and other paraphernalia. Flags
 are seen everywhere, as are flag symbols on clothing and in public displays.
 
-{% asset_img image 'American Fascism + God' %}
+<img src="{{image}}" alt="American Fascism + God">
 
 **Fascist characteristic #2**
 

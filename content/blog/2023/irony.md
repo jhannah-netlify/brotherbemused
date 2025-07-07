@@ -9,7 +9,7 @@ Irony did not disappear along with ironing boards. Why, just today my brain was 
 
 It began with the reminder that this is the International Day of Peace, a global observance each September 21st declared by the United Nations to strengthen the ideals of peace. 
 <!-- excerpt -->
-{% asset_img image 'pints' %}
+<img src="{{image}}" alt="rocket">
 
 In marking the anniversary, UN Secretary-General António Guterres said, "Peace is needed today more than ever. War and conflict are unleashing devastation, poverty, and hunger, and driving tens of millions of people from their homes. Climate chaos is all around. And even peaceful countries are gripped by gaping inequalities and political polarization.”
 

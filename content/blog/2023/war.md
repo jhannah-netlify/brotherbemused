@@ -12,7 +12,8 @@ The answer they offered was “ABSOLUTELY NOTHING!”
 
 Now that I’m an old dog, however, I beg to differ. 
 <!-- excerpt -->
-{% asset_img image 'war' 'float-left mr-4 mt-0 mb-0 not-prose' %}
+<img src="{{image}}" alt="war">
+
 War is good for *lots* of things. 
 
 War is good for silencing dissent. Once war is declared, questioning it is

@@ -10,7 +10,7 @@ most consequential presidential election of my lifetime.” While that phrase ma
 sound like typical election hyperbole, the growing sense of angst I feel is due
 to what I see as a national identity crisis. Who are we, really? 
 <!-- excerpt -->
-{% asset_img image 'mural' %}
+<img src="{{image}}" alt="mural">
 
 That question will not be answered fully by this election outcome, but it will
 surely reveal how a record number of voters cast their ballot to express who we

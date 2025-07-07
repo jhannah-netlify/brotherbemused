@@ -11,7 +11,7 @@ originally designated Armistice Day, and remained so for nearly a century
 before the name was changed by an act of Congress? 
 
 <!-- excerpt -->
-{% asset_img image 'Reclaim Armistice Day!' %}
+<img src="{{image}}" alt="Reclaim Armistice Day!">
 
 And how many know the significance of “the eleventh hour of the eleventh day of
 the eleventh month?” That phrase marked the armistice in 1918 that ended the

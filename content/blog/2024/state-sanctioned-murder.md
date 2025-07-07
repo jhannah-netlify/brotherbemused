@@ -14,7 +14,7 @@ That may sound extreme, but it’s something to think about.
 By use of the death penalty the state is essentially saying “We’re going to
 murder murderers to discourage murder.” Really?
 <!-- excerpt -->
-{% asset_img image 'anti-death penalty table, signs, activists' %}
+<img src="{{image}}" alt="anti-death penalty table, signs, activists">
 
 Worse, it seems that sometimes executing a person takes precedence over
 executing justice. 

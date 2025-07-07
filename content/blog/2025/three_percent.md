@@ -9,10 +9,8 @@ tags:
 "Historians who study social movements worldwide have coined the term "3.5%
 rule" -- that throughout history, few authoritarian governments have withstood
 3.5% of their population peacefully mobilized against them in a sustained way."
-
 <!-- excerpt -->
-
-{% asset_img image 'KC crowd' %}
+<img src="{{image}}" alt="KC crowd">
 
 Per [MoveOn.org](https://front.moveon.org/), the recent No Kings rallies
 sponsored by Indivisible numbered some 5 million protestors at 2,100 events,
