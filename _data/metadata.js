@@ -1,4 +1,4 @@
-{
+export default {
     "name": "Jim Hannah",
     "url": "https://brotherbemused.jays.net",
     "title": "Brother Bemused",
