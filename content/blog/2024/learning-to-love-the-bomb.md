@@ -2,7 +2,7 @@
 title: 'Learning to Love the Bomb?'
 date: 2024-10-01 12:00:00 -5
 # published: false
-image: 2024/bomb.jpg
+image: bomb.jpg
 tags:
 ---
 You know what would be really great?... A 60th birthday party and nation-wide

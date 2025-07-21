@@ -2,7 +2,7 @@
 title: 'Full Speed Ahead!?'
 date: 2025-03-23 12:00:00 -5
 # published: false
-image: 2025/titanic.jpg
+image: titanic.jpg
 tags:
 ---
 

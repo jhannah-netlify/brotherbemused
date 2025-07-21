@@ -2,7 +2,7 @@
 title: The Big Lie
 date: 2024-01-22 12:00:00 -5
 # published: false
-image: 2024/big-lie.jpg
+image: big-lie.jpg
 tags:
 ---
 I should probably content myself with the very sage observation made by my younger brother: 

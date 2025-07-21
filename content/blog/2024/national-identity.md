@@ -2,7 +2,7 @@
 title: 'Trending now: our national identity'
 date: 2024-11-02 12:00:00 -5
 # published: false
-image: 2024/national-identity.jpg
+image: national-identity.jpg
 tags:
 ---
 Within the week we hopefully will know the outcome of what seems to me “the

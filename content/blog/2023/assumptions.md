@@ -3,7 +3,7 @@ title: On Checking My Assumptions at the Door
 date: 2023-09-13 12:00:00 -5
 # published: false
 tags:
-image: 2023/pints.jpg
+image: pints.jpg
 ---
 Since childhood, I’ve know that “a pint is a pound, the world around.” Right?
 Teachers explained that a pint is 16 ounces, and 16 ounces is a pound, ergo 1

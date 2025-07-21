@@ -3,7 +3,7 @@ title: Ironic, Isn't It?
 date: 2023-09-22 12:00:00 -5
 # published: false
 tags:
-image: 2023/rocket.jpg
+image: rocket.jpg
 ---
 Irony did not disappear along with ironing boards. Why, just today my brain was wrinkled by the ironical. 
 

@@ -2,7 +2,7 @@
 title: 'State-sanctioned Murder?'
 date: 2024-09-26 12:00:00 -5
 # published: false
-image: 2024/state-sanctioned-murder.jpg
+image: state-sanctioned-murder.jpg
 tags:
 ---
 State-sanctioned Murder? 

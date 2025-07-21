@@ -2,7 +2,7 @@
 title: Still...
 date: 2024-05-28 12:00:00 -5
 # published: false
-image: 2024/burned_mary.jpg
+image: burned_mary.jpg
 tags:
 ---
 Some thoughts I shared on Memorial Day at the nuclear weapons plant in Kansas city:

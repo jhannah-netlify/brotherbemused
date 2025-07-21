@@ -2,7 +2,7 @@
 title: '"Christian" nationalism?'
 date: 2024-06-03 12:00:00 -5
 # published: false
-image: 2024/flag_cross.jpg
+image: flag_cross.jpg
 tags:
 ---
 As a word person, I’m fascinated (and often frustrated) by the way words get

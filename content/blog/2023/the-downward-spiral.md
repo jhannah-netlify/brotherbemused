@@ -3,7 +3,7 @@ title: The Downward Spiral
 date: 2023-12-14 12:00:00 -5
 # published: false
 tags:
-image: 2023/the-downward-spiral.jpg
+image: the-downward-spiral.jpg
 ---
 I returned yesterday from a 4-day vacation from the news to learn that Israel
 has increased its number of attacks on Gaza to 250 DAILY.

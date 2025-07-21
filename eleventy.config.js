@@ -26,26 +26,17 @@ export default async function(eleventyConfig) {
 	// Run Eleventy when these files change:
 	// https://www.11ty.dev/docs/watch-serve/#add-your-own-watch-targets
 
-	// Watch CSS files
-	eleventyConfig.addWatchTarget("css/**/*.css");
 	// Watch images for the image pipeline.
 	eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpg,jpeg,gif}");
 
 	// Per-page bundles, see https://github.com/11ty/eleventy-plugin-bundle
-	// Bundle <style> content and adds a {% css %} paired shortcode
+	// Adds the {% css %} paired shortcode
 	eleventyConfig.addBundle("css", {
 		toFileDirectory: "dist",
-		// Add all <style> content to `css` bundle (use <style eleventy:ignore> to opt-out)
-		// Supported selectors: https://www.npmjs.com/package/posthtml-match-helper
-		bundleHtmlContentFromSelector: "style",
 	});
-
-	// Bundle <script> content and adds a {% js %} paired shortcode
+	// Adds the {% js %} paired shortcode
 	eleventyConfig.addBundle("js", {
 		toFileDirectory: "dist",
-		// Add all <script> content to the `js` bundle (use <script eleventy:ignore> to opt-out)
-		// Supported selectors: https://www.npmjs.com/package/posthtml-match-helper
-		bundleHtmlContentFromSelector: "script",
 	});
 
 	// Official plugins
@@ -72,11 +63,11 @@ export default async function(eleventyConfig) {
 		},
 		metadata: {
 			language: "en",
-			title: "Blog Title",
-			subtitle: "This is a longer description about your blog.",
-			base: "https://example.com/",
+			title: "notes.jays.net",
+			subtitle: "Misc. notes Jay Hannah wrote.",
+			base: "https://notes.jays.net/",
 			author: {
-				name: "Your Name"
+				name: "Jay Hannah"
 			}
 		}
 	});
@@ -122,6 +113,8 @@ export default async function(eleventyConfig) {
 	// https://www.11ty.dev/docs/copy/#emulate-passthrough-copy-during-serve
 
 	// eleventyConfig.setServerPassthroughCopyBehavior("passthrough");
+
+	eleventyConfig.addFilter("contentImgUrlFilter", contentImgUrlFilter);
 };
 
 export const config = {
@@ -162,3 +155,28 @@ export const config = {
 
 	// pathPrefix: "/",
 };
+
+// Author: Seramis
+// https://github.com/11ty/eleventy-img/issues/278
+import path from 'node:path';
+import Image from '@11ty/eleventy-img';
+async function contentImgUrlFilter(src) {
+	const inputDir = path.dirname(this.page.inputPath);
+	const imagePath = path.resolve(inputDir, src);
+	const outputDir = path.dirname(this.page.outputPath);
+	const urlPath = this.page.url;
+
+	const stats = await Image(imagePath, {
+		widths: [1200], // Width for Open Graph image
+		formats: ["jpg", "png"],
+		outputDir: outputDir, // Output directory
+		urlPath: urlPath, // Public URL path
+		filenameFormat: function (hash, src, width, format) {
+			return `${hash}-${width}.${format}`;
+		},
+		// transformOnRequest: true
+	});
+	//console.error(stats);
+	//console.error(stats.jpeg[0].url);
+	return stats.jpeg[0].url; // Return the URL of the processed image
+}

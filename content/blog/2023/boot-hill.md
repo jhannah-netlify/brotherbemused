@@ -2,7 +2,7 @@
 title: Thoughts from Boot Hill
 date: 2023-11-18 12:00:00 -5
 # published: false
-image: 2023/boot_hill.jpg
+image: boot_hill.jpg
 tags:
 ---
 Some say the best things in life are not things. And while I’d generally agree,

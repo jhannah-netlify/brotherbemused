@@ -2,7 +2,7 @@
 title: Dirt-y movie
 date: 2023-12-04 12:00:00 -5
 # published: false
-image: 2023/dirt-y-movie.jpg
+image: dirt-y-movie.jpg
 tags:
 ---
 I went to a dirt-y movie last night…and I highly recommend it!

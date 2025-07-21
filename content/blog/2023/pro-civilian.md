@@ -2,7 +2,7 @@
 title: Pro Israel? Pro Palestine? Or Pro Civilian?
 date: 2023-11-03 12:00:00 -5
 # published: false
-image: 2023/human_race.jpg
+image: human_race.jpg
 tags:
 ---
 Does being pro-Palestinian make you anti-Israeli?

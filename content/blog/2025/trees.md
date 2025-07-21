@@ -2,7 +2,7 @@
 title: 'The Hidden Life of Trees'
 date: 2025-04-02 12:00:00 -5
 # published: false
-image: 2025/trees.jpg
+image: trees.jpg
 tags:
 ---
 

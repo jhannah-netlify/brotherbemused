@@ -2,7 +2,7 @@
 title: 'Of all the sadness'
 date: 2024-11-08 12:00:00 -5
 # published: false
-image: 2024/do_unto_others.jpg
+image: do_unto_others.jpg
 tags:
 ---
 Of all the sadness I’ve felt in this election cycle, one of the deepest has

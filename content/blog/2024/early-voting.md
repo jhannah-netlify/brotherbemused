@@ -2,7 +2,7 @@
 title: 'Early voting'
 date: 2024-10-29 12:00:00 -5
 # published: false
-image: 2024/early-voting.jpg
+image: early-voting.jpg
 tags:
 ---
 I recently stood in the early voting line for two hours and 45 minutes on

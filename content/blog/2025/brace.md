@@ -2,7 +2,7 @@
 title: 'Brace for Impact!'
 date: 2025-01-12 12:00:00 -5
 # published: false
-image: 2025/brace.jpg
+image: brace.jpg
 tags:
 ---
 

@@ -2,7 +2,7 @@
 title: 'The 3.5% Rule'
 date: 2025-06-19 12:00:00 -5
 # published: false
-image: 2025/three_percent.jpg
+image: three_percent.jpg
 tags:
 ---
 

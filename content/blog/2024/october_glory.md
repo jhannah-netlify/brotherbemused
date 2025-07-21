@@ -2,7 +2,7 @@
 title: 'October Glory'
 date: 2024-11-25 12:00:00 -5
 # published: false
-image: 2024/october_glory.jpg
+image: october_glory.jpg
 tags:
 ---
 

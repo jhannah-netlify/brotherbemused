@@ -2,7 +2,7 @@
 title: 'Fascism Anyone? 14 characteristics.'
 date: 2025-03-10 12:00:00 -5
 # published: false
-image: 2025/fascism/1.jpg
+image: fascism/1.jpg
 tags:
 ---
 

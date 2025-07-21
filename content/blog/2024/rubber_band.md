@@ -2,7 +2,7 @@
 title: 'Rubber Band Resolution'
 date: 2024-12-31 12:00:00 -5
 # published: false
-image: 2024/rubber_band.jpg
+image: rubber_band.jpg
 tags:
 ---
 

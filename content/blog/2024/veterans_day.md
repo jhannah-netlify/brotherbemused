@@ -2,7 +2,7 @@
 title: 'Reclaim Armistice Day!'
 date: 2024-11-13 12:00:00 -5
 # published: false
-image: 2024/veterans_day.jpg
+image: veterans_day.jpg
 tags:
 ---
 
