@@ -6,7 +6,9 @@ const eleventyNavigation = {
 ---
 # About
 
-Brother Bemused is the allonym of Jim Hannah, for whom, as one friend said,
+Brother Bemused is the allonym of
+[Jim Hannah](https://www.facebook.com/jim.hannah.988),
+for whom, as one friend said,
 "words are but a plaything." He's retired now after decades of word play as a
 journalist and editor, but still on occasion scratches the itch to write.
 Usually this compulsion stems from bewilderment about the human condition,
