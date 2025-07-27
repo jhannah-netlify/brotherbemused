@@ -36,7 +36,7 @@ rights can be ignored in certain cases because of “need.” The people tend to
 look the other way or even approve of torture, summary executions,
 assassinations, long incarcerations of prisoners, and so on.
 
-<img src="/assets/img/posts/2025/fascism/2.jpg" alt="Fascism a Warning">
+<img src="fascism/2.jpg" alt="Fascism a Warning">
 
 **Fascist characteristic #3**
 
@@ -45,7 +45,7 @@ into a unifying patriotic frenzy over the need to eliminate a perceived common
 threat or foe: racial, ethnic, or religious minorities; liberals; communists;
 terrorists; and so on.
 
-<img src="/assets/img/posts/2025/fascism/3.jpg" alt="How Fascism Works">
+<img src="fascism/3.jpg" alt="How Fascism Works">
 
 **Fascist characteristic #4**
 
@@ -53,7 +53,7 @@ Supremacy of the military. Even when there are widespread domestic problems,
 the military is given a disproportionate amount of government funding, and the
 domestic agenda is neglected. Soldiers and military service are glamorized.
 
-<img src="/assets/img/posts/2025/fascism/4.jpg" alt="On Tyranny">
+<img src="fascism/4.jpg" alt="On Tyranny">
 
 **Fascist characteristic #5**
 
@@ -62,7 +62,7 @@ exclusively male dominated. Under fascist regimes traditional gender roles are
 made more rigid. Opposition to abortion is high, as are homophobia and antigay
 legislation in national policy.
 
-<img src="/assets/img/posts/2025/fascism/5.jpg" alt="How Democracies Die">
+<img src="fascism/5.jpg" alt="How Democracies Die">
 
 **Fascist characteristic #6**
 
@@ -70,14 +70,14 @@ Controlled mass media. Sometimes the media are directly controlled by the
 government, but in other cases, the media are indirectly controlled by
 government regulation, or sympathetic media spokespeople and executives.
 
-<img src="/assets/img/posts/2025/fascism/6.jpg" alt="On Democracy">
+<img src="fascism/6.jpg" alt="On Democracy">
 
 **Fascist characteristic #7**
 
 Obsession with national security. Fear is used as a motivational tool by the
 government over the masses.
 
-<img src="/assets/img/posts/2025/fascism/7.jpg" alt="Behold, America">
+<img src="fascism/7.jpg" alt="Behold, America">
 
 **Fascist characteristic #8**
 
@@ -87,7 +87,7 @@ opinion. Religious rhetoric and terminology is common from government leaders,
 even when the major tenets of the religion are diametrically opposed to the
 government’s policies or actions.
 
-<img src="/assets/img/posts/2025/fascism/8.jpg" alt="Healing the Heart of Democracy">
+<img src="fascism/8.jpg" alt="Healing the Heart of Democracy">
 
 **Fascist characteristic #9**
 
@@ -96,7 +96,7 @@ fascist nation often are the ones who put the government leaders into power,
 creating a mutually beneficial business-government relationship and power
 elite.
 
-<img src="/assets/img/posts/2025/fascism/9.jpg" alt="Jesus and John Wayne">
+<img src="fascism/9.jpg" alt="Jesus and John Wayne">
 
 **Fascist characteristic #10**
 
@@ -104,7 +104,7 @@ Labor power is suppressed. Because the organizing power of labor is the only
 real threat to a fascist government, labor unions are either eliminated
 entirely, or are severely suppressed.
 
-<img src="/assets/img/posts/2025/fascism/10.jpg" alt="Preparing for War">
+<img src="fascism/10.jpg" alt="Preparing for War">
 
 **Fascist characteristic #11**
 
@@ -114,7 +114,7 @@ uncommon for professors and other academics to be censored or even arrested.
 Free expression in the arts is openly attacked, and governments often refuse to
 fund the arts. 
 
-<img src="/assets/img/posts/2025/fascism/11.jpg" alt="A More Perfect Union">
+<img src="fascism/11.jpg" alt="A More Perfect Union">
 
 **Fascist characteristic #12**
 
@@ -124,7 +124,7 @@ overlook police abuses and even forego civil liberties in the name of
 patriotism. There is often a national police force with virtually unlimited
 power in fascist nations.
 
-<img src="/assets/img/posts/2025/fascism/12.jpg" alt="Decoding the Plan to Undo Democracy">
+<img src="fascism/12.jpg" alt="Decoding the Plan to Undo Democracy">
 
 **Fascist characteristic #13**
 
@@ -135,7 +135,7 @@ accountability. It is not uncommon in racist regimes for national resources and
 even treasures to be appropriated or even stolen outright by government
 leaders. 
 
-<img src="/assets/img/posts/2025/fascism/13.jpg" alt="With God on Our Side">
+<img src="fascism/13.jpg" alt="With God on Our Side">
 
 **Fascist characteristic #14**
 
@@ -146,5 +146,5 @@ numbers or political-district boundaries, and manipulation of the media.
 Fascist nations also typically use their judiciaries to manipulate or control
 elections. 
 
-<img src="/assets/img/posts/2025/fascism/14.jpg" alt="The False White Gospel">
+<img src="fascism/14.jpg" alt="The False White Gospel">
 
