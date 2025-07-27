@@ -8,17 +8,7 @@
 		<link rel="alternate" href="/feed/feed.xml" type="application/atom+xml" title="{{ metadata.title }}">
 
 		{#- Uncomment this if you’d like folks to know that you used Eleventy to build your site!  #}
-		<meta name="generator" content="{{ eleventy.generator }}">
-
-		<!-- https://orcascan.com/tools/open-graph-validator?url=https%3A%2F%2Fnotes.jays.net%2Fblog%2Ftrees%2F&submitButton=#missing -->
-		<!-- <meta property="og:url" content="TODO" /> -->
-		<!-- <meta property="og:logo" content="TODO" /> -->
-		<meta property="og:type" content="website" />
-		<meta property="og:title" content="{{ title }}" />
-		<meta property="og:description" content="{{ description or metadata.description }}" />
-		{% if image %}
-			<meta property="og:image" content="{{ image | contentImgUrlFilter | absoluteUrl(metadata.url) }}" />
-		{% endif %}
+		{#- <meta name="generator" content="{{ eleventy.generator }}"> #}
 
 		{#-
 		Plain-text bundles are provided via the `eleventy-plugin-bundle` plugin:
@@ -31,23 +21,26 @@
 		3. Learn more: https://github.com/11ty/eleventy-plugin-bundle
 		#}
 
-		{#- Add an arbitrary string to the bundle #}
-		{%- css %}/* This is an arbitrary CSS string added to the bundle */{% endcss %}
+		{#- Add CSS to the bundle #}
+		<style>/* This is an arbitrary CSS string added to the bundle */</style>
+
 		{#- Add the contents of a file to the bundle #}
-		{%- css %}{% include "public/css/index.css" %}{% endcss %}
+		<style>{% include "css/index.css" %}</style>
+
 		{#- Or you can add from node_modules #}
-		{# {%- css %}{% include "node_modules/prismjs/themes/prism-okaidia.css" %}{% endcss %} #}
+		{# <style>{% include "node_modules/something.css" %}</style> #}
 
 		{#- Render the CSS bundle using inlined CSS (for the fastest site performance in production) #}
 		<style>{% getBundle "css" %}</style>
+
 		{#- Renders the CSS bundle using a separate file, if you can't set CSP directive style-src: 'unsafe-inline' #}
 		{#- <link rel="stylesheet" href="{% getBundleFileUrl "css" %}"> #}
 
 		{#- Add the heading-anchors web component to the JavaScript bundle #}
-		{%- js %}{% include "node_modules/@zachleat/heading-anchors/heading-anchors.js" %}{% endjs %}
+		<script type="module">{% include "node_modules/@zachleat/heading-anchors/heading-anchors.js" %}</script>
 	</head>
 	<body>
-		<a href="#skip" class="visually-hidden">Skip to main content</a>
+		<a href="#main" id="skip-link" class="visually-hidden">Skip to main content</a>
 
 		<header>
 			<a href="/" class="home-link">{{ metadata.title }}</a>
@@ -63,19 +56,16 @@
 			</nav>
 		</header>
 
-		<main id="skip">
+		<main id="main">
 			<heading-anchors>
 				{{ content | safe }}
 			</heading-anchors>
 		</main>
 
 		<footer>
-			<p><em>
-				Content <a href="https://github.com/jhannah-netlify/notes.jays.net">patches welcome</a>.
-				Open an Issue or Pull Request.<br/>
-				Built with <a href="https://www.11ty.dev/">{{ eleventy.generator }}</a>.
-				Forked from <a href="https://github.com/11ty/eleventy-base-blog">eleventy-base-blog</a>.
-			</em></p>
+			<p>
+				<em>Built with <a href="https://www.11ty.dev/">{{ eleventy.generator }}</a></em>
+			</p>
 		</footer>
 
 		<!-- This page `{{ page.url }}` was built on {% currentBuildDate %} -->
