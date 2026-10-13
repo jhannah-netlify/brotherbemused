@@ -1,6 +1,7 @@
 ---
 title: "The Itch to Scratch"
 date: 2008-03-01
+image: itch-to-scratch-cfbdb27a.jpg
 original_url: https://headrattle.blogspot.com/2008/03/itch-to-scratch.html
 templateEngineOverride: md
 ---

@@ -1,6 +1,7 @@
 ---
 title: "A Great Letting Go"
 date: 2008-03-30
+image: great-letting-go-34558a71.jpg
 original_url: https://headrattle.blogspot.com/2008/03/great-letting-go.html
 templateEngineOverride: md
 ---

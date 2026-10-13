@@ -1,6 +1,7 @@
 ---
 title: "Monarch Reveries"
 date: 2008-09-25
+image: monarch-reveries-2ebc3977.jpg
 original_url: https://headrattle.blogspot.com/2008/09/monarch-reveries.html
 templateEngineOverride: md
 ---

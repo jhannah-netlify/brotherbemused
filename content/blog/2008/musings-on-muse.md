@@ -1,6 +1,7 @@
 ---
 title: "Musings on the Muse"
 date: 2008-01-08
+image: musings-on-muse-dbf13f5d.jpg
 original_url: https://headrattle.blogspot.com/2008/01/musings-on-muse.html
 templateEngineOverride: md
 ---

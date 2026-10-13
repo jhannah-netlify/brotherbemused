@@ -1,6 +1,7 @@
 ---
 title: "Virtual Reality (Or Pseudo?)"
 date: 2008-03-01
+image: virtual-reality-or-pseudo-0f7311d3.jpg
 original_url: https://headrattle.blogspot.com/2008/03/virtual-reality-or-pseudo.html
 templateEngineOverride: md
 ---

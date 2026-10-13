@@ -1,6 +1,7 @@
 ---
 title: "Overlooked"
 date: 2008-04-27
+image: overlooked-80cc396e.jpg
 original_url: https://headrattle.blogspot.com/2008/04/overlooked.html
 templateEngineOverride: md
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Winning Hearts and Minds, the American Way"
 date: 2008-01-05
+image: winning-hearts-and-minds-american-way-67dbe80b.jpg
 original_url: https://headrattle.blogspot.com/2008/01/winning-hearts-and-minds-american-way.html
 templateEngineOverride: md
 ---

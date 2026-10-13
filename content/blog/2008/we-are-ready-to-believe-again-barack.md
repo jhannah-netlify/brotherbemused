@@ -1,6 +1,7 @@
 ---
 title: "we-are-ready-to-believe-again-barack"
 date: 2008-01-04
+image: we-are-ready-to-believe-again-barack-c974356b.jpg
 original_url: https://headrattle.blogspot.com/2008/01/we-are-ready-to-believe-again-barack.html
 templateEngineOverride: md
 ---

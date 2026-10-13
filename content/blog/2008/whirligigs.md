@@ -1,6 +1,7 @@
 ---
 title: "Whirligigs"
 date: 2008-05-11
+image: whirligigs-eee5ff45.jpg
 original_url: https://headrattle.blogspot.com/2008/05/whirligigs.html
 templateEngineOverride: md
 ---

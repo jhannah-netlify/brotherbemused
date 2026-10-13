@@ -1,6 +1,7 @@
 ---
 title: "Warts and All"
 date: 2008-08-06
+image: warts-and-all-67c75afa.jpg
 original_url: https://headrattle.blogspot.com/2008/08/warts-and-all.html
 templateEngineOverride: md
 ---

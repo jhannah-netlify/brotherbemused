@@ -1,6 +1,7 @@
 ---
 title: "First Snow"
 date: 2008-12-09
+image: first-snow-d4a7a057.jpg
 original_url: https://headrattle.blogspot.com/2008/12/first-snow.html
 templateEngineOverride: md
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Eagle Sightings"
 date: 2008-03-19
+image: eagle-sightings-0e9b815f.jpg
 original_url: https://headrattle.blogspot.com/2008/03/eagle-sightings.html
 templateEngineOverride: md
 ---

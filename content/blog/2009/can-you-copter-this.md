@@ -1,6 +1,7 @@
 ---
 title: "Can You Copter This?"
 date: 2009-02-21
+image: can-you-copter-this-edec716a.jpg
 original_url: https://headrattle.blogspot.com/2009/02/can-you-copter-this.html
 templateEngineOverride: md
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Man Vs. Wild"
 date: 2008-01-11
+image: man-vs-wild-1bd7c4c7.jpg
 original_url: https://headrattle.blogspot.com/2008/01/man-vs-wild.html
 templateEngineOverride: md
 ---

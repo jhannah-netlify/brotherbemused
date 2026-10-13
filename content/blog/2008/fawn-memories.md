@@ -1,6 +1,7 @@
 ---
 title: "Fawn Memories"
 date: 2008-08-06
+image: fawn-memories-237c7d09.jpg
 original_url: https://headrattle.blogspot.com/2008/08/fawn-memories.html
 templateEngineOverride: md
 ---

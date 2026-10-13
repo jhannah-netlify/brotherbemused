@@ -1,6 +1,7 @@
 ---
 title: "Endnotes for Earnie"
 date: 2009-02-05
+image: endnotes-for-earnie-b162e112.png
 original_url: https://headrattle.blogspot.com/2009/02/endnotes-for-earnie.html
 templateEngineOverride: md
 ---

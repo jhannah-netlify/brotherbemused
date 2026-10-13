@@ -1,6 +1,7 @@
 ---
 title: "Pedal On!"
 date: 2008-09-25
+image: pedal-on-f2a9189d.jpg
 original_url: https://headrattle.blogspot.com/2008/09/pedal-on.html
 templateEngineOverride: md
 ---

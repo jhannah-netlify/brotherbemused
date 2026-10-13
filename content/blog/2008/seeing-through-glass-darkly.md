@@ -1,6 +1,7 @@
 ---
 title: "Seeing Through Glass, Darkly"
 date: 2008-08-06
+image: seeing-through-glass-darkly-82c93deb.jpg
 original_url: https://headrattle.blogspot.com/2008/08/seeing-through-glass-darkly.html
 templateEngineOverride: md
 ---

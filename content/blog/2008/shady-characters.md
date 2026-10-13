@@ -1,6 +1,7 @@
 ---
 title: "Shady Characters"
 date: 2008-09-25
+image: shady-characters-acdb7cc1.jpg
 original_url: https://headrattle.blogspot.com/2008/09/shady-characters.html
 templateEngineOverride: md
 ---

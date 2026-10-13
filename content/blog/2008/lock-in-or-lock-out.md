@@ -1,6 +1,7 @@
 ---
 title: "Lock-in, or Lock-out?"
 date: 2008-08-06
+image: lock-in-or-lock-out-b1f4af12.jpg
 original_url: https://headrattle.blogspot.com/2008/08/lock-in-or-lock-out.html
 templateEngineOverride: md
 ---

@@ -1,6 +1,7 @@
 ---
 title: "Brad the Birthday Boy"
 date: 2008-01-09
+image: brad-birthday-boy-99ed3c50.jpg
 original_url: https://headrattle.blogspot.com/2008/01/brad-birthday-boy.html
 templateEngineOverride: md
 ---

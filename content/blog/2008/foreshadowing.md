@@ -1,6 +1,7 @@
 ---
 title: "Foreshadowing"
 date: 2008-01-16
+image: foreshadowing-45fda22e.jpg
 original_url: https://headrattle.blogspot.com/2008/01/foreshadowing.html
 templateEngineOverride: md
 ---

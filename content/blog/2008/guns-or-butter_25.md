@@ -1,6 +1,7 @@
 ---
 title: "Guns, or Butter?"
 date: 2008-09-25
+image: guns-or-butter_25-1e417607.jpg
 original_url: https://headrattle.blogspot.com/2008/09/guns-or-butter_25.html
 templateEngineOverride: md
 ---

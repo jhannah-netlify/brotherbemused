@@ -1,6 +1,7 @@
 ---
 title: "The Restless Tide"
 date: 2008-10-24
+image: restless-tide-6cf4f843.jpg
 original_url: https://headrattle.blogspot.com/2008/10/restless-tide.html
 templateEngineOverride: md
 ---

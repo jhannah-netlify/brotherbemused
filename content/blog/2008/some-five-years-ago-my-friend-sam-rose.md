@@ -1,6 +1,7 @@
 ---
 title: "Bulbs, Bulbs, and More Bulbs"
 date: 2008-09-25
+image: some-five-years-ago-my-friend-sam-rose-3078ffbe.jpg
 original_url: https://headrattle.blogspot.com/2008/09/some-five-years-ago-my-friend-sam-rose.html
 templateEngineOverride: md
 ---

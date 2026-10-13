@@ -1,6 +1,7 @@
 ---
 title: "Intimations of Mortality"
 date: 2008-01-07
+image: intimations-of-mortality-da61fae5.jpg
 original_url: https://headrattle.blogspot.com/2008/01/intimations-of-mortality.html
 templateEngineOverride: md
 ---

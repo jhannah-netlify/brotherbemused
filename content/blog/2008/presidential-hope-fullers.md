@@ -1,6 +1,7 @@
 ---
 title: "It Pays to Be an Iowan"
 date: 2008-01-03
+image: presidential-hope-fullers-b5e4a8d7.jpg
 original_url: https://headrattle.blogspot.com/2008/01/presidential-hope-fullers.html
 templateEngineOverride: md
 ---

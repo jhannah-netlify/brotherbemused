@@ -1,6 +1,7 @@
 ---
 title: "Brothering in Illinois"
 date: 2008-04-27
+image: brothering-in-illinois-53a0faa3.jpg
 original_url: https://headrattle.blogspot.com/2008/04/brothering-in-illinois.html
 templateEngineOverride: md
 ---

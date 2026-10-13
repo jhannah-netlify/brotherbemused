@@ -1,6 +1,7 @@
 ---
 title: "Just Pooling Around"
 date: 2008-01-10
+image: just-pooling-around-5ab50bb0.jpg
 original_url: https://headrattle.blogspot.com/2008/01/just-pooling-around.html
 templateEngineOverride: md
 ---

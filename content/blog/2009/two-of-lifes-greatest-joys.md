@@ -1,6 +1,7 @@
 ---
 title: "Two of Life's Greatest Joys"
 date: 2009-05-01
+image: two-of-lifes-greatest-joys-62319c61.jpg
 original_url: https://headrattle.blogspot.com/2009/05/two-of-lifes-greatest-joys.html
 templateEngineOverride: md
 ---

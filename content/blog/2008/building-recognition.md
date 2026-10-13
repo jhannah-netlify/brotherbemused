@@ -1,6 +1,7 @@
 ---
 title: "A Building Recognition"
 date: 2008-03-02
+image: building-recognition-bf0c95cf.jpg
 original_url: https://headrattle.blogspot.com/2008/03/building-recognition.html
 templateEngineOverride: md
 ---

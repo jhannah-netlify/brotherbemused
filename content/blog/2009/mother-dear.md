@@ -1,6 +1,7 @@
 ---
 title: "Mother Dear"
 date: 2009-01-28
+image: mother-dear-e92cf81f.jpg
 original_url: https://headrattle.blogspot.com/2009/01/mother-dear.html
 templateEngineOverride: md
 ---

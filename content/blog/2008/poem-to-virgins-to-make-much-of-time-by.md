@@ -1,6 +1,7 @@
 ---
 title: "poem-to-virgins-to-make-much-of-time-by"
 date: 2008-04-27
+image: poem-to-virgins-to-make-much-of-time-by-ff325d03.jpg
 original_url: https://headrattle.blogspot.com/2008/04/poem-to-virgins-to-make-much-of-time-by.html
 templateEngineOverride: md
 ---
